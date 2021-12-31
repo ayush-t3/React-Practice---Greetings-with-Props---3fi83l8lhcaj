@@ -1,4 +1,5 @@
 // write code for Welcome component here
+import React from 'react';
 funtion Welcome(props){
 return(
 <h1>Hey ! {props.name}</h1>
